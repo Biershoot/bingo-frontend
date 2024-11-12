@@ -14,3 +14,4 @@ Interacciones en tiempo real durante el juego, como la selección de números y 
 Redirección automática al home en caso de descalificación y notificaciones cuando un jugador gana.
 
 Este frontend se comunica con el backend mediante servicios API, proporcionando una experiencia de usuario fluida y reactiva.
+Video Explicativo: https://youtu.be/0xkr0thdu6U
